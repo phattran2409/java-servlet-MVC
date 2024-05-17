@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/FilterUser.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/Create.html</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/Login.jsp</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/Admin.jsp</file>
+            <file>file:/D:/JDBC/LogOutMVC/nbproject/build-impl.xml</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/Customer.jsp</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/User.jsp</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/User/UserDTO.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/test.html</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/User/UserError.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/LoginFilter.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/index.html</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/User/UserDao.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/DeleteController.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/wellcome.html</file>
+            <file>file:/D:/JDBC/LogOutMVC/web/Create.jsp</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/LoginController.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/DBUtils/DbConnect.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/MainController.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Create/CreateServlet.java</file>
+            <file>file:/D:/JDBC/LogOutMVC/src/java/Controller/LogoutController.java</file>
+        </group>
+    </open-files>
+</project-private>
