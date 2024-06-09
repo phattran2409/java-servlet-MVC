@@ -1,0 +1,105 @@
+.image-admin {
+    width: 100%;
+    height: 100%;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    border: 0.2em solid rgba(129, 129, 129, 0.55);
+}
+
+.image>img {
+    width: 200px;
+    height: 200px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* greeting admin */
+.greeting-admin {
+    
+}
+
+/* name Admin */
+.NameAdmin {
+    color: #ff9900;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: monospace;
+}
+
+
+/* check box price */
+.form-check-input {
+    border: 1px solid red;
+
+}
+
+/* Create a new Product */
+.title {
+    margin: 0 0 2rem;
+    
+}
+
+.card-body {
+   
+}
+
+.form-label {
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 1.5rem;
+
+}
+
+.form-control {
+    border-color: #3333338e;
+}
+.view-wishList {
+
+/*    width: 100px;
+    height: 100px;*/
+    position: absolute;
+    top: 0;     
+    right: 0;
+  
+ 
+}
+.img-WL {
+
+    width: fit-content;
+    height: fit-content;
+}
+.view-wishList  img {
+    width: 50px;
+    height: 50px;
+  
+}  
+.container-imgWL {
+   
+}
+.title-WL { 
+    width: 100%;
+    background:linear-gradient(200deg , #FF0000 , #FFA27F ,#FFE8C5); 
+    color:#fff;
+    font-family: monospace;
+    font-weight: 800; 
+    padding: 0.4rem 10px;
+    opacity: 0;
+    transition:  1s ease;
+  
+}
+
+.container-imgWL:hover  .title-WL{
+    display: block;
+    opacity: 1;
+}
+
+
+/*? Button pagination */
+.btn-pagin {
+    
+    border: #656565;
+}
